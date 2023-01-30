@@ -10,3 +10,17 @@
     font-size: 2rem;
     text-align: center;
 }
+.hangman-container{
+    position: relative;
+};
+.hangman-md-container{
+    height: 400px;
+    width: 10px;
+    background: black;
+    margin-left: 120px;
+}
+.hangman-btm-container{
+    height: 10px;
+    width: 250px;
+    background: black;
+}
